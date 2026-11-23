@@ -1,0 +1,31 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-11-21 23:44 EST
+Nmap scan report for 172.30.0.10
+Host is up (0.000063s latency).
+Not shown: 65534 closed tcp ports (conn-refused)
+PORT     STATE SERVICE VERSION
+9009/tcp open  pichat?
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port9009-TCP:V=7.94SVN%I=7%D=11/21%Time=6B027317%P=x86_64-pc-linux-gnu%
+SF:r(NULL,18,"HW4-MOCK-SKILL-LISTENER\n")%r(GenericLines,18,"HW4-MOCK-SKIL
+SF:L-LISTENER\n")%r(GetRequest,18,"HW4-MOCK-SKILL-LISTENER\n")%r(HTTPOptio
+SF:ns,18,"HW4-MOCK-SKILL-LISTENER\n")%r(RTSPRequest,18,"HW4-MOCK-SKILL-LIS
+SF:TENER\n")%r(RPCCheck,18,"HW4-MOCK-SKILL-LISTENER\n")%r(DNSVersionBindRe
+SF:qTCP,18,"HW4-MOCK-SKILL-LISTENER\n")%r(DNSStatusRequestTCP,18,"HW4-MOCK
+SF:-SKILL-LISTENER\n")%r(Help,18,"HW4-MOCK-SKILL-LISTENER\n")%r(SSLSession
+SF:Req,18,"HW4-MOCK-SKILL-LISTENER\n")%r(TerminalServerCookie,18,"HW4-MOCK
+SF:-SKILL-LISTENER\n")%r(TLSSessionReq,18,"HW4-MOCK-SKILL-LISTENER\n")%r(K
+SF:erberos,18,"HW4-MOCK-SKILL-LISTENER\n")%r(SMBProgNeg,18,"HW4-MOCK-SKILL
+SF:-LISTENER\n")%r(X11Probe,18,"HW4-MOCK-SKILL-LISTENER\n")%r(FourOhFourRe
+SF:quest,18,"HW4-MOCK-SKILL-LISTENER\n")%r(LPDString,18,"HW4-MOCK-SKILL-LI
+SF:STENER\n")%r(LDAPSearchReq,18,"HW4-MOCK-SKILL-LISTENER\n")%r(LDAPBindRe
+SF:q,18,"HW4-MOCK-SKILL-LISTENER\n")%r(SIPOptions,18,"HW4-MOCK-SKILL-LISTE
+SF:NER\n")%r(LANDesk-RC,18,"HW4-MOCK-SKILL-LISTENER\n")%r(TerminalServer,1
+SF:8,"HW4-MOCK-SKILL-LISTENER\n")%r(NCP,18,"HW4-MOCK-SKILL-LISTENER\n")%r(
+SF:NotesRPC,18,"HW4-MOCK-SKILL-LISTENER\n")%r(JavaRMI,18,"HW4-MOCK-SKILL-L
+SF:ISTENER\n")%r(WMSRequest,18,"HW4-MOCK-SKILL-LISTENER\n")%r(oracle-tns,1
+SF:8,"HW4-MOCK-SKILL-LISTENER\n")%r(ms-sql-s,18,"HW4-MOCK-SKILL-LISTENER\n
+SF:")%r(afp,18,"HW4-MOCK-SKILL-LISTENER\n")%r(giop,18,"HW4-MOCK-SKILL-LIST
+SF:ENER\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 2.08 seconds
